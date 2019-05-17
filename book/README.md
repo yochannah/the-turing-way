@@ -1,6 +1,6 @@
 ## The Turing Way Book
 *For the main repo (where most of the issues live) please [follow this link](https://github.com/alan-turing-institute/the-turing-way).*
-
+ 
 All the text for each chapter lives inside it's own folder in the `content/` directory.
 
 Everything else is in the `website/`. Importantly this includes the figures, which are in the `website/assets/figures/` directory.
